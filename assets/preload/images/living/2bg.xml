@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="2bg.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg0000" x="5" y="5" width="2187" height="1273"/>
+	<SubTexture name="bgcool0000" x="2197" y="5" width="2187" height="1273"/>
+	<SubTexture name="bgcool0001" x="2197" y="5" width="2187" height="1273"/>
+	<SubTexture name="bgcool0002" x="4389" y="5" width="2187" height="1273"/>
+	<SubTexture name="bgcool0003" x="5" y="1283" width="2187" height="1273"/>
+	<SubTexture name="bgcool0004" x="2197" y="1283" width="2187" height="1273"/>
+	<SubTexture name="bgcool0005" x="4389" y="1283" width="2187" height="1273"/>
+	<SubTexture name="bgcool0006" x="5" y="2561" width="2187" height="1273"/>
+	<SubTexture name="bgcool0007" x="2197" y="2561" width="2187" height="1273"/>
+	<SubTexture name="bgcool0008" x="4389" y="2561" width="2187" height="1273"/>
+	<SubTexture name="bgcool0009" x="5" y="3839" width="2187" height="1273"/>
+	<SubTexture name="bgcool0010" x="2197" y="3839" width="2187" height="1273"/>
+	<SubTexture name="bgcool0011" x="4389" y="3839" width="2187" height="1273"/>
+	<SubTexture name="bgcool0012" x="5" y="5117" width="2187" height="1273"/>
+	<SubTexture name="bgcool0013" x="2197" y="5117" width="2187" height="1273"/>
+	<SubTexture name="bgcool0014" x="4389" y="5117" width="2187" height="1273"/>
+	<SubTexture name="bgcool0015" x="5" y="6395" width="2187" height="1273"/>
+	<SubTexture name="bgcool0016" x="2197" y="6395" width="2187" height="1273"/>
+	<SubTexture name="bgcool0017" x="4389" y="6395" width="2187" height="1273"/>
+	<SubTexture name="bgcool0018" x="5" y="5" width="2187" height="1273"/>
+</TextureAtlas>
