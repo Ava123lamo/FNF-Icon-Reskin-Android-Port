@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lime.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lime down0000" x="5" y="5" width="351" height="374" frameX="0" frameY="-20" frameWidth="351" frameHeight="395"/>
+	<SubTexture name="lime down0001" x="5" y="5" width="351" height="374" frameX="0" frameY="-20" frameWidth="351" frameHeight="395"/>
+	<SubTexture name="lime down0002" x="361" y="5" width="342" height="379" frameX="-5" frameY="-16" frameWidth="351" frameHeight="395"/>
+	<SubTexture name="lime down0003" x="361" y="5" width="342" height="379" frameX="-5" frameY="-16" frameWidth="351" frameHeight="395"/>
+	<SubTexture name="lime down0004" x="361" y="5" width="342" height="379" frameX="-5" frameY="-16" frameWidth="351" frameHeight="395"/>
+	<SubTexture name="lime down0005" x="708" y="5" width="333" height="392" frameX="-10" frameY="-3" frameWidth="351" frameHeight="395"/>
+	<SubTexture name="lime down0006" x="708" y="5" width="333" height="392" frameX="-10" frameY="-3" frameWidth="351" frameHeight="395"/>
+	<SubTexture name="lime down0007" x="1046" y="5" width="331" height="395" frameX="-11" frameY="0" frameWidth="351" frameHeight="395"/>
+	<SubTexture name="lime down0008" x="1046" y="5" width="331" height="395" frameX="-11" frameY="0" frameWidth="351" frameHeight="395"/>
+	<SubTexture name="lime down0009" x="1382" y="5" width="331" height="395" frameX="-11" frameY="0" frameWidth="351" frameHeight="395"/>
+	<SubTexture name="lime down0010" x="1382" y="5" width="331" height="395" frameX="-11" frameY="0" frameWidth="351" frameHeight="395"/>
+	<SubTexture name="lime down0011" x="1382" y="5" width="331" height="395" frameX="-11" frameY="0" frameWidth="351" frameHeight="395"/>
+	<SubTexture name="lime down0012" x="1382" y="5" width="331" height="395" frameX="-11" frameY="0" frameWidth="351" frameHeight="395"/>
+	<SubTexture name="lime down0013" x="1382" y="5" width="331" height="395" frameX="-11" frameY="0" frameWidth="351" frameHeight="395"/>
+	<SubTexture name="lime down miss0000" x="1718" y="5" width="351" height="374" frameX="-2" frameY="0" frameWidth="354" frameHeight="376"/>
+	<SubTexture name="lime down miss0001" x="2074" y="5" width="354" height="372" frameX="0" frameY="-4" frameWidth="354" frameHeight="376"/>
+	<SubTexture name="lime down miss0002" x="2074" y="5" width="354" height="372" frameX="0" frameY="-4" frameWidth="354" frameHeight="376"/>
+	<SubTexture name="lime down miss0003" x="2433" y="5" width="351" height="375" frameX="-1" frameY="-1" frameWidth="354" frameHeight="376"/>
+	<SubTexture name="lime down miss0004" x="2433" y="5" width="351" height="375" frameX="-1" frameY="-1" frameWidth="354" frameHeight="376"/>
+	<SubTexture name="lime down miss0005" x="2433" y="5" width="351" height="375" frameX="-1" frameY="-1" frameWidth="354" frameHeight="376"/>
+	<SubTexture name="lime down miss0006" x="2433" y="5" width="351" height="375" frameX="-1" frameY="-1" frameWidth="354" frameHeight="376"/>
+	<SubTexture name="lime down miss0007" x="2433" y="5" width="351" height="375" frameX="-1" frameY="-1" frameWidth="354" frameHeight="376"/>
+	<SubTexture name="lime down miss0008" x="2433" y="5" width="351" height="375" frameX="-1" frameY="-1" frameWidth="354" frameHeight="376"/>
+	<SubTexture name="lime down miss0009" x="2433" y="5" width="351" height="375" frameX="-1" frameY="-1" frameWidth="354" frameHeight="376"/>
+	<SubTexture name="lime down miss0010" x="2433" y="5" width="351" height="375" frameX="-1" frameY="-1" frameWidth="354" frameHeight="376"/>
+	<SubTexture name="lime down miss0011" x="2433" y="5" width="351" height="375" frameX="-1" frameY="-1" frameWidth="354" frameHeight="376"/>
+	<SubTexture name="lime down miss0012" x="2433" y="5" width="351" height="375" frameX="-1" frameY="-1" frameWidth="354" frameHeight="376"/>
+	<SubTexture name="lime down miss0013" x="2433" y="5" width="351" height="375" frameX="-1" frameY="-1" frameWidth="354" frameHeight="376"/>
+	<SubTexture name="lime idle0000" x="2789" y="5" width="385" height="443" frameX="-9" frameY="-16" frameWidth="394" frameHeight="460"/>
+	<SubTexture name="lime idle0001" x="2789" y="5" width="385" height="443" frameX="-9" frameY="-16" frameWidth="394" frameHeight="460"/>
+	<SubTexture name="lime idle0002" x="3179" y="5" width="384" height="447" frameX="-5" frameY="-13" frameWidth="394" frameHeight="460"/>
+	<SubTexture name="lime idle0003" x="3179" y="5" width="384" height="447" frameX="-5" frameY="-13" frameWidth="394" frameHeight="460"/>
+	<SubTexture name="lime idle0004" x="3568" y="5" width="390" height="455" frameX="0" frameY="-5" frameWidth="394" frameHeight="460"/>
+	<SubTexture name="lime idle0005" x="3568" y="5" width="390" height="455" frameX="0" frameY="-5" frameWidth="394" frameHeight="460"/>
+	<SubTexture name="lime idle0006" x="5" y="465" width="382" height="459" frameX="-6" frameY="-1" frameWidth="394" frameHeight="460"/>
+	<SubTexture name="lime idle0007" x="5" y="465" width="382" height="459" frameX="-6" frameY="-1" frameWidth="394" frameHeight="460"/>
+	<SubTexture name="lime idle0008" x="392" y="465" width="374" height="459" frameX="-11" frameY="-1" frameWidth="394" frameHeight="460"/>
+	<SubTexture name="lime idle0009" x="392" y="465" width="374" height="459" frameX="-11" frameY="-1" frameWidth="394" frameHeight="460"/>
+	<SubTexture name="lime idle0010" x="771" y="465" width="373" height="460" frameX="-13" frameY="0" frameWidth="394" frameHeight="460"/>
+	<SubTexture name="lime idle0011" x="771" y="465" width="373" height="460" frameX="-13" frameY="0" frameWidth="394" frameHeight="460"/>
+	<SubTexture name="lime idle0012" x="771" y="465" width="373" height="460" frameX="-13" frameY="0" frameWidth="394" frameHeight="460"/>
+	<SubTexture name="lime idle0013" x="771" y="465" width="373" height="460" frameX="-13" frameY="0" frameWidth="394" frameHeight="460"/>
+	<SubTexture name="lime left0000" x="1149" y="465" width="366" height="442" frameX="0" frameY="-4" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left0001" x="1149" y="465" width="366" height="442" frameX="0" frameY="-4" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left0002" x="1520" y="465" width="359" height="442" frameX="-7" frameY="-4" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left0003" x="1520" y="465" width="359" height="442" frameX="-7" frameY="-4" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left0004" x="1520" y="465" width="359" height="442" frameX="-7" frameY="-4" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left0005" x="1884" y="465" width="357" height="444" frameX="-12" frameY="-2" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left0006" x="1884" y="465" width="357" height="444" frameX="-12" frameY="-2" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left0007" x="2246" y="465" width="363" height="445" frameX="-13" frameY="-1" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left0008" x="2246" y="465" width="363" height="445" frameX="-13" frameY="-1" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left0009" x="2614" y="465" width="364" height="446" frameX="-13" frameY="0" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left0010" x="2614" y="465" width="364" height="446" frameX="-13" frameY="0" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left0011" x="2614" y="465" width="364" height="446" frameX="-13" frameY="0" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left0012" x="2614" y="465" width="364" height="446" frameX="-13" frameY="0" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left0013" x="2614" y="465" width="364" height="446" frameX="-13" frameY="0" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left miss0000" x="1149" y="465" width="366" height="442" frameX="0" frameY="0" frameWidth="377" frameHeight="446"/>
+	<SubTexture name="lime left miss0001" x="2983" y="465" width="343" height="441" frameX="-23" frameY="-1" frameWidth="366" frameHeight="442"/>
+	<SubTexture name="lime left miss0002" x="2983" y="465" width="343" height="441" frameX="-23" frameY="-1" frameWidth="366" frameHeight="442"/>
+	<SubTexture name="lime left miss0003" x="3331" y="465" width="345" height="441" frameX="-21" frameY="-1" frameWidth="366" frameHeight="442"/>
+	<SubTexture name="lime left miss0004" x="3331" y="465" width="345" height="441" frameX="-21" frameY="-1" frameWidth="366" frameHeight="442"/>
+	<SubTexture name="lime left miss0005" x="3331" y="465" width="345" height="441" frameX="-21" frameY="-1" frameWidth="366" frameHeight="442"/>
+	<SubTexture name="lime left miss0006" x="3331" y="465" width="345" height="441" frameX="-21" frameY="-1" frameWidth="366" frameHeight="442"/>
+	<SubTexture name="lime left miss0007" x="3331" y="465" width="345" height="441" frameX="-21" frameY="-1" frameWidth="366" frameHeight="442"/>
+	<SubTexture name="lime left miss0008" x="3331" y="465" width="345" height="441" frameX="-21" frameY="-1" frameWidth="366" frameHeight="442"/>
+	<SubTexture name="lime left miss0009" x="3331" y="465" width="345" height="441" frameX="-21" frameY="-1" frameWidth="366" frameHeight="442"/>
+	<SubTexture name="lime left miss0010" x="3331" y="465" width="345" height="441" frameX="-21" frameY="-1" frameWidth="366" frameHeight="442"/>
+	<SubTexture name="lime left miss0011" x="3331" y="465" width="345" height="441" frameX="-21" frameY="-1" frameWidth="366" frameHeight="442"/>
+	<SubTexture name="lime left miss0012" x="3331" y="465" width="345" height="441" frameX="-21" frameY="-1" frameWidth="366" frameHeight="442"/>
+	<SubTexture name="lime left miss0013" x="3331" y="465" width="345" height="441" frameX="-21" frameY="-1" frameWidth="366" frameHeight="442"/>
+	<SubTexture name="lime right0000" x="3681" y="465" width="386" height="446" frameX="-2" frameY="-7" frameWidth="388" frameHeight="453"/>
+	<SubTexture name="lime right0001" x="3681" y="465" width="386" height="446" frameX="-2" frameY="-7" frameWidth="388" frameHeight="453"/>
+	<SubTexture name="lime right0002" x="5" y="930" width="386" height="447" frameX="-1" frameY="-6" frameWidth="388" frameHeight="453"/>
+	<SubTexture name="lime right0003" x="5" y="930" width="386" height="447" frameX="-1" frameY="-6" frameWidth="388" frameHeight="453"/>
+	<SubTexture name="lime right0004" x="5" y="930" width="386" height="447" frameX="-1" frameY="-6" frameWidth="388" frameHeight="453"/>
+	<SubTexture name="lime right0005" x="396" y="930" width="381" height="453" frameX="0" frameY="0" frameWidth="388" frameHeight="453"/>
+	<SubTexture name="lime right0006" x="396" y="930" width="381" height="453" frameX="0" frameY="0" frameWidth="388" frameHeight="453"/>
+	<SubTexture name="lime right0007" x="782" y="930" width="377" height="452" frameX="0" frameY="-1" frameWidth="388" frameHeight="453"/>
+	<SubTexture name="lime right0008" x="782" y="930" width="377" height="452" frameX="0" frameY="-1" frameWidth="388" frameHeight="453"/>
+	<SubTexture name="lime right0009" x="1164" y="930" width="376" height="452" frameX="0" frameY="-1" frameWidth="388" frameHeight="453"/>
+	<SubTexture name="lime right0010" x="1164" y="930" width="376" height="452" frameX="0" frameY="-1" frameWidth="388" frameHeight="453"/>
+	<SubTexture name="lime right0011" x="1164" y="930" width="376" height="452" frameX="0" frameY="-1" frameWidth="388" frameHeight="453"/>
+	<SubTexture name="lime right0012" x="1164" y="930" width="376" height="452" frameX="0" frameY="-1" frameWidth="388" frameHeight="453"/>
+	<SubTexture name="lime right0013" x="1164" y="930" width="376" height="452" frameX="0" frameY="-1" frameWidth="388" frameHeight="453"/>
+	<SubTexture name="lime right miss0000" x="1545" y="930" width="376" height="452" frameX="-1" frameY="0" frameWidth="379" frameHeight="454"/>
+	<SubTexture name="lime right miss0001" x="1926" y="930" width="374" height="453" frameX="0" frameY="-1" frameWidth="379" frameHeight="454"/>
+	<SubTexture name="lime right miss0002" x="1926" y="930" width="374" height="453" frameX="0" frameY="-1" frameWidth="379" frameHeight="454"/>
+	<SubTexture name="lime right miss0003" x="2305" y="930" width="378" height="453" frameX="-1" frameY="-1" frameWidth="379" frameHeight="454"/>
+	<SubTexture name="lime right miss0004" x="2305" y="930" width="378" height="453" frameX="-1" frameY="-1" frameWidth="379" frameHeight="454"/>
+	<SubTexture name="lime right miss0005" x="2305" y="930" width="378" height="453" frameX="-1" frameY="-1" frameWidth="379" frameHeight="454"/>
+	<SubTexture name="lime right miss0006" x="2305" y="930" width="378" height="453" frameX="-1" frameY="-1" frameWidth="379" frameHeight="454"/>
+	<SubTexture name="lime right miss0007" x="2305" y="930" width="378" height="453" frameX="-1" frameY="-1" frameWidth="379" frameHeight="454"/>
+	<SubTexture name="lime right miss0008" x="2305" y="930" width="378" height="453" frameX="-1" frameY="-1" frameWidth="379" frameHeight="454"/>
+	<SubTexture name="lime right miss0009" x="2305" y="930" width="378" height="453" frameX="-1" frameY="-1" frameWidth="379" frameHeight="454"/>
+	<SubTexture name="lime right miss0010" x="2305" y="930" width="378" height="453" frameX="-1" frameY="-1" frameWidth="379" frameHeight="454"/>
+	<SubTexture name="lime right miss0011" x="2305" y="930" width="378" height="453" frameX="-1" frameY="-1" frameWidth="379" frameHeight="454"/>
+	<SubTexture name="lime right miss0012" x="2305" y="930" width="378" height="453" frameX="-1" frameY="-1" frameWidth="379" frameHeight="454"/>
+	<SubTexture name="lime right miss0013" x="2305" y="930" width="378" height="453" frameX="-1" frameY="-1" frameWidth="379" frameHeight="454"/>
+	<SubTexture name="lime scared0000" x="2688" y="930" width="395" height="475" frameX="-2" frameY="0" frameWidth="400" frameHeight="478"/>
+	<SubTexture name="lime scared0001" x="3088" y="930" width="400" height="477" frameX="0" frameY="0" frameWidth="400" frameHeight="478"/>
+	<SubTexture name="lime scared0002" x="3493" y="930" width="392" height="474" frameX="-5" frameY="-1" frameWidth="400" frameHeight="478"/>
+	<SubTexture name="lime scared0003" x="5" y="1412" width="399" height="478" frameX="-1" frameY="0" frameWidth="400" frameHeight="478"/>
+	<SubTexture name="lime up0000" x="409" y="1412" width="379" height="478"/>
+	<SubTexture name="lime up0001" x="409" y="1412" width="379" height="478"/>
+	<SubTexture name="lime up0002" x="793" y="1412" width="377" height="475" frameX="0" frameY="-2" frameWidth="379" frameHeight="478"/>
+	<SubTexture name="lime up0003" x="793" y="1412" width="377" height="475" frameX="0" frameY="-2" frameWidth="379" frameHeight="478"/>
+	<SubTexture name="lime up0004" x="793" y="1412" width="377" height="475" frameX="0" frameY="-2" frameWidth="379" frameHeight="478"/>
+	<SubTexture name="lime up0005" x="1175" y="1412" width="375" height="470" frameX="0" frameY="-7" frameWidth="379" frameHeight="478"/>
+	<SubTexture name="lime up0006" x="1175" y="1412" width="375" height="470" frameX="0" frameY="-7" frameWidth="379" frameHeight="478"/>
+	<SubTexture name="lime up0007" x="1555" y="1412" width="375" height="467" frameX="0" frameY="-9" frameWidth="379" frameHeight="478"/>
+	<SubTexture name="lime up0008" x="1555" y="1412" width="375" height="467" frameX="0" frameY="-9" frameWidth="379" frameHeight="478"/>
+	<SubTexture name="lime up0009" x="1935" y="1412" width="376" height="467" frameX="0" frameY="-9" frameWidth="379" frameHeight="478"/>
+	<SubTexture name="lime up0010" x="1935" y="1412" width="376" height="467" frameX="0" frameY="-9" frameWidth="379" frameHeight="478"/>
+	<SubTexture name="lime up0011" x="1935" y="1412" width="376" height="467" frameX="0" frameY="-9" frameWidth="379" frameHeight="478"/>
+	<SubTexture name="lime up0012" x="1935" y="1412" width="376" height="467" frameX="0" frameY="-9" frameWidth="379" frameHeight="478"/>
+	<SubTexture name="lime up0013" x="1935" y="1412" width="376" height="467" frameX="0" frameY="-9" frameWidth="379" frameHeight="478"/>
+	<SubTexture name="lime up miss0000" x="409" y="1412" width="379" height="478" frameX="-11" frameY="0" frameWidth="379" frameHeight="478"/>
+	<SubTexture name="lime up miss0001" x="2316" y="1412" width="403" height="469" frameX="0" frameY="-12" frameWidth="403" frameHeight="481"/>
+	<SubTexture name="lime up miss0002" x="2316" y="1412" width="403" height="469" frameX="0" frameY="-12" frameWidth="403" frameHeight="481"/>
+	<SubTexture name="lime up miss0003" x="2724" y="1412" width="395" height="475" frameX="-4" frameY="-6" frameWidth="403" frameHeight="481"/>
+	<SubTexture name="lime up miss0004" x="2724" y="1412" width="395" height="475" frameX="-4" frameY="-6" frameWidth="403" frameHeight="481"/>
+	<SubTexture name="lime up miss0005" x="2724" y="1412" width="395" height="475" frameX="-4" frameY="-6" frameWidth="403" frameHeight="481"/>
+	<SubTexture name="lime up miss0006" x="2724" y="1412" width="395" height="475" frameX="-4" frameY="-6" frameWidth="403" frameHeight="481"/>
+	<SubTexture name="lime up miss0007" x="2724" y="1412" width="395" height="475" frameX="-4" frameY="-6" frameWidth="403" frameHeight="481"/>
+	<SubTexture name="lime up miss0008" x="2724" y="1412" width="395" height="475" frameX="-4" frameY="-6" frameWidth="403" frameHeight="481"/>
+	<SubTexture name="lime up miss0009" x="2724" y="1412" width="395" height="475" frameX="-4" frameY="-6" frameWidth="403" frameHeight="481"/>
+	<SubTexture name="lime up miss0010" x="2724" y="1412" width="395" height="475" frameX="-4" frameY="-6" frameWidth="403" frameHeight="481"/>
+	<SubTexture name="lime up miss0011" x="2724" y="1412" width="395" height="475" frameX="-4" frameY="-6" frameWidth="403" frameHeight="481"/>
+	<SubTexture name="lime up miss0012" x="2724" y="1412" width="395" height="475" frameX="-4" frameY="-6" frameWidth="403" frameHeight="481"/>
+	<SubTexture name="lime up miss0013" x="2724" y="1412" width="395" height="475" frameX="-4" frameY="-6" frameWidth="403" frameHeight="481"/>
+	<SubTexture name="lime yey0000" x="3124" y="1412" width="449" height="450" frameX="-1" frameY="-10" frameWidth="457" frameHeight="460"/>
+	<SubTexture name="lime yey0001" x="3124" y="1412" width="449" height="450" frameX="-1" frameY="-10" frameWidth="457" frameHeight="460"/>
+	<SubTexture name="lime yey0002" x="3578" y="1412" width="447" height="453" frameX="-3" frameY="-7" frameWidth="457" frameHeight="460"/>
+	<SubTexture name="lime yey0003" x="3578" y="1412" width="447" height="453" frameX="-3" frameY="-7" frameWidth="457" frameHeight="460"/>
+	<SubTexture name="lime yey0004" x="5" y="1895" width="450" height="460" frameX="-4" frameY="0" frameWidth="457" frameHeight="460"/>
+	<SubTexture name="lime yey0005" x="5" y="1895" width="450" height="460" frameX="-4" frameY="0" frameWidth="457" frameHeight="460"/>
+	<SubTexture name="lime yey0006" x="460" y="1895" width="456" height="458" frameX="-1" frameY="-2" frameWidth="457" frameHeight="460"/>
+	<SubTexture name="lime yey0007" x="460" y="1895" width="456" height="458" frameX="-1" frameY="-2" frameWidth="457" frameHeight="460"/>
+	<SubTexture name="lime yey0008" x="921" y="1895" width="456" height="455" frameX="0" frameY="-5" frameWidth="457" frameHeight="460"/>
+	<SubTexture name="lime yey0009" x="921" y="1895" width="456" height="455" frameX="0" frameY="-5" frameWidth="457" frameHeight="460"/>
+	<SubTexture name="lime yey0010" x="921" y="1895" width="456" height="455" frameX="0" frameY="-5" frameWidth="457" frameHeight="460"/>
+	<SubTexture name="lime yey0011" x="921" y="1895" width="456" height="455" frameX="0" frameY="-5" frameWidth="457" frameHeight="460"/>
+	<SubTexture name="lime yey0012" x="1382" y="1895" width="446" height="446" frameX="0" frameY="-14" frameWidth="457" frameHeight="460"/>
+	<SubTexture name="lime yey0013" x="1382" y="1895" width="446" height="446" frameX="0" frameY="-14" frameWidth="457" frameHeight="460"/>
+</TextureAtlas>

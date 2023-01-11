@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dad.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dad down0000" x="5" y="5" width="416" height="737" frameX="0" frameY="-6" frameWidth="416" frameHeight="743"/>
+	<SubTexture name="dad down0001" x="5" y="5" width="416" height="737" frameX="0" frameY="-6" frameWidth="416" frameHeight="743"/>
+	<SubTexture name="dad down0002" x="426" y="5" width="404" height="742" frameX="-2" frameY="-1" frameWidth="416" frameHeight="743"/>
+	<SubTexture name="dad down0003" x="426" y="5" width="404" height="742" frameX="-2" frameY="-1" frameWidth="416" frameHeight="743"/>
+	<SubTexture name="dad down0004" x="835" y="5" width="406" height="743" frameX="-2" frameY="0" frameWidth="416" frameHeight="743"/>
+	<SubTexture name="dad down0005" x="835" y="5" width="406" height="743" frameX="-2" frameY="0" frameWidth="416" frameHeight="743"/>
+	<SubTexture name="dad down0006" x="1246" y="5" width="406" height="743" frameX="-2" frameY="0" frameWidth="416" frameHeight="743"/>
+	<SubTexture name="dad down0007" x="1246" y="5" width="406" height="743" frameX="-2" frameY="0" frameWidth="416" frameHeight="743"/>
+	<SubTexture name="dad down0008" x="1246" y="5" width="406" height="743" frameX="-2" frameY="0" frameWidth="416" frameHeight="743"/>
+	<SubTexture name="dad down0009" x="1246" y="5" width="406" height="743" frameX="-2" frameY="0" frameWidth="416" frameHeight="743"/>
+	<SubTexture name="dad down0010" x="1246" y="5" width="406" height="743" frameX="-2" frameY="0" frameWidth="416" frameHeight="743"/>
+	<SubTexture name="dad down0011" x="1246" y="5" width="406" height="743" frameX="-2" frameY="0" frameWidth="416" frameHeight="743"/>
+	<SubTexture name="dad down0012" x="1246" y="5" width="406" height="743" frameX="-2" frameY="0" frameWidth="416" frameHeight="743"/>
+	<SubTexture name="dad down0013" x="1246" y="5" width="406" height="743" frameX="-2" frameY="0" frameWidth="416" frameHeight="743"/>
+	<SubTexture name="dad idle0000" x="1657" y="5" width="451" height="763" frameX="0" frameY="-26" frameWidth="457" frameHeight="790"/>
+	<SubTexture name="dad idle0001" x="1657" y="5" width="451" height="763" frameX="0" frameY="-26" frameWidth="457" frameHeight="790"/>
+	<SubTexture name="dad idle0002" x="2113" y="5" width="429" height="759" frameX="-2" frameY="-30" frameWidth="457" frameHeight="790"/>
+	<SubTexture name="dad idle0003" x="2113" y="5" width="429" height="759" frameX="-2" frameY="-30" frameWidth="457" frameHeight="790"/>
+	<SubTexture name="dad idle0004" x="2547" y="5" width="436" height="781" frameX="-3" frameY="-9" frameWidth="457" frameHeight="790"/>
+	<SubTexture name="dad idle0005" x="2547" y="5" width="436" height="781" frameX="-3" frameY="-9" frameWidth="457" frameHeight="790"/>
+	<SubTexture name="dad idle0006" x="2988" y="5" width="446" height="788" frameX="-3" frameY="-2" frameWidth="457" frameHeight="790"/>
+	<SubTexture name="dad idle0007" x="2988" y="5" width="446" height="788" frameX="-3" frameY="-2" frameWidth="457" frameHeight="790"/>
+	<SubTexture name="dad idle0008" x="3439" y="5" width="452" height="790" frameX="-3" frameY="0" frameWidth="457" frameHeight="790"/>
+	<SubTexture name="dad idle0009" x="3439" y="5" width="452" height="790" frameX="-3" frameY="0" frameWidth="457" frameHeight="790"/>
+	<SubTexture name="dad idle0010" x="5" y="800" width="454" height="790" frameX="-3" frameY="0" frameWidth="457" frameHeight="790"/>
+	<SubTexture name="dad idle0011" x="5" y="800" width="454" height="790" frameX="-3" frameY="0" frameWidth="457" frameHeight="790"/>
+	<SubTexture name="dad idle0012" x="464" y="800" width="454" height="790" frameX="-3" frameY="0" frameWidth="457" frameHeight="790"/>
+	<SubTexture name="dad idle0013" x="464" y="800" width="454" height="790" frameX="-3" frameY="0" frameWidth="457" frameHeight="790"/>
+	<SubTexture name="dad left0000" x="923" y="800" width="382" height="781" frameX="0" frameY="-4" frameWidth="386" frameHeight="785"/>
+	<SubTexture name="dad left0001" x="923" y="800" width="382" height="781" frameX="0" frameY="-4" frameWidth="386" frameHeight="785"/>
+	<SubTexture name="dad left0002" x="1310" y="800" width="386" height="785"/>
+	<SubTexture name="dad left0003" x="1310" y="800" width="386" height="785"/>
+	<SubTexture name="dad left0004" x="1701" y="800" width="386" height="782" frameX="0" frameY="-3" frameWidth="386" frameHeight="785"/>
+	<SubTexture name="dad left0005" x="1701" y="800" width="386" height="782" frameX="0" frameY="-3" frameWidth="386" frameHeight="785"/>
+	<SubTexture name="dad left0006" x="1701" y="800" width="386" height="782" frameX="0" frameY="-3" frameWidth="386" frameHeight="785"/>
+	<SubTexture name="dad left0007" x="1701" y="800" width="386" height="782" frameX="0" frameY="-3" frameWidth="386" frameHeight="785"/>
+	<SubTexture name="dad left0008" x="1701" y="800" width="386" height="782" frameX="0" frameY="-3" frameWidth="386" frameHeight="785"/>
+	<SubTexture name="dad left0009" x="1701" y="800" width="386" height="782" frameX="0" frameY="-3" frameWidth="386" frameHeight="785"/>
+	<SubTexture name="dad left0010" x="1701" y="800" width="386" height="782" frameX="0" frameY="-3" frameWidth="386" frameHeight="785"/>
+	<SubTexture name="dad left0011" x="1701" y="800" width="386" height="782" frameX="0" frameY="-3" frameWidth="386" frameHeight="785"/>
+	<SubTexture name="dad left0012" x="1701" y="800" width="386" height="782" frameX="0" frameY="-3" frameWidth="386" frameHeight="785"/>
+	<SubTexture name="dad left0013" x="1701" y="800" width="386" height="782" frameX="0" frameY="-3" frameWidth="386" frameHeight="785"/>
+	<SubTexture name="dad right0000" x="2092" y="800" width="527" height="795" frameX="0" frameY="-5" frameWidth="527" frameHeight="800"/>
+	<SubTexture name="dad right0001" x="2092" y="800" width="527" height="795" frameX="0" frameY="-5" frameWidth="527" frameHeight="800"/>
+	<SubTexture name="dad right0002" x="2624" y="800" width="516" height="798" frameX="-1" frameY="-2" frameWidth="527" frameHeight="800"/>
+	<SubTexture name="dad right0003" x="2624" y="800" width="516" height="798" frameX="-1" frameY="-2" frameWidth="527" frameHeight="800"/>
+	<SubTexture name="dad right0004" x="3145" y="800" width="514" height="800" frameX="-1" frameY="0" frameWidth="527" frameHeight="800"/>
+	<SubTexture name="dad right0005" x="5" y="1605" width="514" height="800" frameX="-1" frameY="0" frameWidth="527" frameHeight="800"/>
+	<SubTexture name="dad right0006" x="524" y="1605" width="514" height="800" frameX="-1" frameY="0" frameWidth="527" frameHeight="800"/>
+	<SubTexture name="dad right0007" x="1043" y="1605" width="514" height="800" frameX="-1" frameY="0" frameWidth="527" frameHeight="800"/>
+	<SubTexture name="dad right0008" x="1043" y="1605" width="514" height="800" frameX="-1" frameY="0" frameWidth="527" frameHeight="800"/>
+	<SubTexture name="dad right0009" x="1043" y="1605" width="514" height="800" frameX="-1" frameY="0" frameWidth="527" frameHeight="800"/>
+	<SubTexture name="dad right0010" x="1043" y="1605" width="514" height="800" frameX="-1" frameY="0" frameWidth="527" frameHeight="800"/>
+	<SubTexture name="dad right0011" x="1043" y="1605" width="514" height="800" frameX="-1" frameY="0" frameWidth="527" frameHeight="800"/>
+	<SubTexture name="dad right0012" x="1043" y="1605" width="514" height="800" frameX="-1" frameY="0" frameWidth="527" frameHeight="800"/>
+	<SubTexture name="dad right0013" x="1043" y="1605" width="514" height="800" frameX="-1" frameY="0" frameWidth="527" frameHeight="800"/>
+	<SubTexture name="dad up0000" x="1562" y="1605" width="419" height="834" frameX="-5" frameY="0" frameWidth="428" frameHeight="834"/>
+	<SubTexture name="dad up0001" x="1562" y="1605" width="419" height="834" frameX="-5" frameY="0" frameWidth="428" frameHeight="834"/>
+	<SubTexture name="dad up0002" x="1986" y="1605" width="428" height="826" frameX="0" frameY="-8" frameWidth="428" frameHeight="834"/>
+	<SubTexture name="dad up0003" x="1986" y="1605" width="428" height="826" frameX="0" frameY="-8" frameWidth="428" frameHeight="834"/>
+	<SubTexture name="dad up0004" x="2419" y="1605" width="428" height="824" frameX="0" frameY="-10" frameWidth="428" frameHeight="834"/>
+	<SubTexture name="dad up0005" x="2852" y="1605" width="428" height="824" frameX="0" frameY="-10" frameWidth="428" frameHeight="834"/>
+	<SubTexture name="dad up0006" x="3285" y="1605" width="428" height="824" frameX="0" frameY="-10" frameWidth="428" frameHeight="834"/>
+	<SubTexture name="dad up0007" x="5" y="2444" width="428" height="824" frameX="0" frameY="-10" frameWidth="428" frameHeight="834"/>
+	<SubTexture name="dad up0008" x="5" y="2444" width="428" height="824" frameX="0" frameY="-10" frameWidth="428" frameHeight="834"/>
+	<SubTexture name="dad up0009" x="5" y="2444" width="428" height="824" frameX="0" frameY="-10" frameWidth="428" frameHeight="834"/>
+	<SubTexture name="dad up0010" x="5" y="2444" width="428" height="824" frameX="0" frameY="-10" frameWidth="428" frameHeight="834"/>
+	<SubTexture name="dad up0011" x="5" y="2444" width="428" height="824" frameX="0" frameY="-10" frameWidth="428" frameHeight="834"/>
+	<SubTexture name="dad up0012" x="5" y="2444" width="428" height="824" frameX="0" frameY="-10" frameWidth="428" frameHeight="834"/>
+	<SubTexture name="dad up0013" x="5" y="2444" width="428" height="824" frameX="0" frameY="-10" frameWidth="428" frameHeight="834"/>
+</TextureAtlas>
