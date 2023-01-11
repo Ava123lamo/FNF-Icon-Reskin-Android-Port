@@ -3,61 +3,17 @@
 		{
 			"loop": false,
 			"offsets": [
-				59,
-				-20
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "spooky kids YEAH!!",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				130,
-				-10
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "note sing left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-130,
-				-14
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "spooky sing right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-50,
-				-130
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "spooky DOWN note",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
 				0,
 				0
 			],
-			"fps": 12,
 			"anim": "danceLeft",
+			"fps": 12,
+			"name": "spooky idle",
 			"indices": [
 				0,
 				2,
 				6
-			],
-			"name": "spooky dance idle"
+			]
 		},
 		{
 			"loop": false,
@@ -65,33 +21,66 @@
 				0,
 				0
 			],
-			"fps": 12,
 			"anim": "danceRight",
+			"fps": 12,
+			"name": "spooky idle",
 			"indices": [
 				8,
 				10,
 				12,
 				14
-			],
-			"name": "spooky dance idle"
+			]
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-20,
-				26
+				64,
+				-29
 			],
+			"anim": "singLEFT",
 			"fps": 24,
+			"name": "spooky left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				-39
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spooky right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				90
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "spooky UP NOTE"
+			"fps": 24,
+			"name": "spooky up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-139
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spooky down",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/spooky_kids_assets",
+	"image": "characters/spooky",
 	"position": [
 		0,
-		200
+		240
 	],
 	"healthicon": "spooky",
 	"flip_x": false,
@@ -101,9 +90,9 @@
 		0
 	],
 	"camera_position": [
-		0,
-		0
+		-40,
+		70
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }

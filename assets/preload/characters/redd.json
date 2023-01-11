@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-63
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "redd down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "redd right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-4
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "redd right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-11
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "redd left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-76
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "redd down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				20
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "redd up miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "redd yey"
+		},
+		{
+			"offsets": [
+				-2,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "redd scared"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "redd idle"
+		},
+		{
+			"offsets": [
+				0,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "redd left0"
+		},
+		{
+			"offsets": [
+				-8,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "redd up0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/redd",
+	"position": [
+		80,
+		320
+	],
+	"healthicon": "bf-mean",
+	"flip_x": true,
+	"healthbar_colors": [
+		96,
+		182,
+		242
+	],
+	"camera_position": [
+		10,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

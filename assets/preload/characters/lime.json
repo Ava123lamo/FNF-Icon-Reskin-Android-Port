@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lime idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lime up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lime left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-67
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lime down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lime right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-7
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "lime right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-21
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "lime left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-87
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "lime down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				18
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "lime up miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				11,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "lime yey"
+		},
+		{
+			"offsets": [
+				22,
+				14
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "lime scared"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lime",
+	"position": [
+		30,
+		300
+	],
+	"healthicon": "bf-old",
+	"flip_x": true,
+	"healthbar_colors": [
+		233,
+		255,
+		72
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "blu idle"
+		},
+		{
+			"offsets": [
+				-10,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "blu up0"
+		},
+		{
+			"offsets": [
+				45,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "blu left0"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "blu down0"
+		},
+		{
+			"offsets": [
+				-13,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "blu right0"
+		},
+		{
+			"offsets": [
+				-14,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "blu right miss"
+		},
+		{
+			"offsets": [
+				44,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "blu left miss"
+		},
+		{
+			"offsets": [
+				18,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "blu down miss"
+		},
+		{
+			"offsets": [
+				-13,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "blu up miss"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-14,
+				-14
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "blu scared",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				-3
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "blu yey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				57,
+				205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "blu dies"
+		},
+		{
+			"offsets": [
+				-9,
+				34
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "blu dead loop"
+		},
+		{
+			"offsets": [
+				4,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "blu dead confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blu",
+	"position": [
+		60,
+		340
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		20,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
